@@ -12,5 +12,6 @@ A simple mental health assessment app built using Streamlit that analyzes user r
 
 # How to run
 ```bash
+pip install streamlit
 streamlit run app.py
 ```
