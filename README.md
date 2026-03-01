@@ -1,5 +1,8 @@
 # Mental-Health-Mini-Checker
-A simple mental health assessment app built using Streamlit that analyzes user responses and provides an instant health feedback.
+An interactive web app built using Streamlit that helps users evaluate their mental well being based on daily lifestyle factors.
+
+# About
+This project is designed to provide a quick and simple mental health self-check. It collects user responses on key aspects like mood, sleep and energy levels, then calculates a score to give instant feedback on overall mental wellnes.
 
 ## Features 
 - Score-based mental health evaluation
@@ -15,3 +18,6 @@ A simple mental health assessment app built using Streamlit that analyzes user r
 pip install streamlit
 streamlit run app.py
 ```
+
+# Preview
+
